@@ -35,7 +35,7 @@ jobs:
               FAMILY='termin-bucher'
               DOCKER_IMAGE='termin-bucher'
               TASK='termin-bucher'
-              SERVICE='termin-bucjer'
+              SERVICE='termin-bucher'
 
               # Login to AWS
               aws configure set region $AWS_REGION
